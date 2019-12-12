@@ -1,0 +1,34 @@
+[
+  {
+    "path": "posts/",
+    "title": "Extras - Análise do Ativo TPIS3.SA",
+    "description": "Welcome to our new blog, Adriel's Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-12-12",
+    "categories": [],
+    "preview": "posts/ST1_EXTRAS_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2019-12-12T15:16:48-03:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Adriel's Blog",
+    "description": "Welcome to our new blog, Adriel's Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-12-12",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-12-12T12:08:17-03:00"
+  }
+]
