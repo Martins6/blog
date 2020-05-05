@@ -1,11 +1,16 @@
 ---
-title: "About this blog"
+title: "Stuff about the author and the blog"
 description: |
-  Some additional details about the blog
+  If you are interested..
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-AWESOME BLOOOOOOOOOOOOG
+Hello, welcome to my data science blog! The main focus of this blog is to share some memorable works on such a beautiful field from projects to techniques, and beyond. Although it is mainly statistics, we may explore other topics. I hope that this blog helps you as it will help me!
+
+I'm an undergraduate student of Statistics at Universidade Federal de Pernambuco (UFPE), Brazil. I'm currently passionated about: Time Series Analysis, Spatial Statistics and Quantitative Finance. You can contact me at my [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
+ or send an e-mail at: _am.adriel.martins@gmail.com_
+ 
+I'm currently an intern at the University in a consultant project to analyse and model risk in the stock market. I'm also in charge of visualization with dashboards.
