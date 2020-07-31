@@ -1,9 +1,9 @@
 {
-    "path" : "~/Documents/DistillBLOG/_posts",
-    "sortOrder" : [
+    "path": "~/Documents/rcodes/[R]NLP",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
